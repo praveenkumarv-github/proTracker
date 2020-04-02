@@ -59,3 +59,7 @@ Exit your command prompt, and the system is configured for remote WMI access for
 
 
 now run the py script as administator 
+
+
+
+https://social.technet.microsoft.com/Forums/en-US/fde3c57c-a783-4044-8b0f-50a2c7e70ddd/wmi-quotaccess-deniedquot-error-for-remote-computer?forum=ITCG
